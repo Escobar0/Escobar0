@@ -1,13 +1,13 @@
-### Hello there, I'm Escobar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hello there, I'm Escobar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-**About me:**
+### **About me:**
 
 - 💻 I’m currently working on something cool
 - 🌱 I’m currently learning MongoDB
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Discord](https://discord.gg/guuFu2R)
 
-**Languages and Tools:**  
+### **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -21,6 +21,6 @@
 <code><img height="20" src="https://hakanportfol.io/static/media/C_Sharp_logo.290bc18e.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
 
-**Statistics:**
+### **Statistics:**
 
 ![Escobar0's github stats](https://github-readme-stats.vercel.app/api?username=Escobar0&show_icons=true&theme=tokyonight) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Escobar0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
