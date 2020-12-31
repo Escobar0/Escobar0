@@ -1,8 +1,5 @@
 ### Hello there, I'm Escobar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 🔭 I’m currently working on [my discord server](https://discord.gg/guuFu2R)
-- 🌱 I’m currently learning MongoDB
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
