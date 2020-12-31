@@ -21,6 +21,6 @@
 <code><img height="20" src="https://hakanportfol.io/static/media/C_Sharp_logo.290bc18e.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
 
-### **Statistics:**
+### **GitHub Statistics:**
 
 ![Escobar0's github stats](https://github-readme-stats.vercel.app/api?username=Escobar0&show_icons=true&theme=tokyonight) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Escobar0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
