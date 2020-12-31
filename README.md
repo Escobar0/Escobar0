@@ -8,6 +8,9 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
 
-
-
+<a>
+  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=Escobar0&theme=tokyonight&layout=compact" />
+</a>
+<a>
 ![Escobar0's github stats](https://github-readme-stats.vercel.app/api?username=Escobar0&show_icons=true&theme=tokyonight)
+</a>
