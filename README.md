@@ -5,7 +5,7 @@
 - 💻 I’m currently working on something cool
 - 🌱 I’m currently learning more about MongoDB
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: You can find me in the [Coding World](https://discord.gg/guuFu2R) discord server under the name **Escobar#8888**
+- 📫 How to reach me: You can find me in the **[Coding World](https://discord.gg/guuFu2R)** discord server under the name **Escobar#8888**
 
 ## **Discord:**
 
