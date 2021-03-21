@@ -7,6 +7,8 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: You can find me in the [Coding World](https://discord.gg/guuFu2R) discord server under the name **Escobar#8888**
 
+### **Discord:**
+
 [![widget](https://discord.com/api/guilds/749603936960380969/widget.png?style=banner2)](https://discord.gg/B3dEUgyr)
 
 ### **GitHub Statistics:**
