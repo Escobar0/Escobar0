@@ -9,7 +9,7 @@
 
 ## **Discord Server:**
 
-[![widget](https://discord.com/api/guilds/749603936960380969/widget.png?style=banner2)](https://discord.gg/B3dEUgyr)
+[![widget](https://discord.com/api/guilds/749603936960380969/widget.png?style=banner2)](https://discord.gg/guuFu2R)
 
 ## **GitHub Statistics:**
 
