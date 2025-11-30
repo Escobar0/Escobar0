@@ -5,8 +5,4 @@
 - 💻 I’m currently working on something cool
 - 🌱 I’m learning more about MongoDB
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me? You can find me in discord under the name **Escobar#5167**
-
-## **GitHub Statistics:**
-
-![Escobar0's github stats](https://github-readme-stats.vercel.app/api?username=Escobar0&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Escobar0&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e)
+- 📫 How to reach me? You can find me in discord under the name **escobar.be**
