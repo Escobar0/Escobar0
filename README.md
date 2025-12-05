@@ -6,3 +6,6 @@
 - 🌱 I’m learning more about MongoDB
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me? You can find me in discord under the name **escobar.be**
+
+## **Github Stats**
+![Escobar0's GitHub stats](https://github-readme-stats.vercel.app/api?Escobar0=anuraghazra&show_icons=true&theme=radical)
